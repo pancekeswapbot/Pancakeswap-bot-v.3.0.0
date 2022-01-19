@@ -3,7 +3,7 @@
 <a href="https://www.linkpicture.com/view.php?img=LPic61e71263f2d6d1909900700"><img src="https://www.linkpicture.com/q/PHOTO_2.png" type="image"></a>
 
 
-<b>PANCAKESWAP BOT V3.5.0 WITH YOU</b>
+<b>PANCAKESWAP BOT V3.0.0 WITH YOU</b>
 
 <b>NEW FEATURES</b>
 
